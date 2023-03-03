@@ -8,6 +8,6 @@
 
 - 💬 Ask me about Devops and AWS
 
-- 📫 How to reach me: svsri09@gmail.com
+- 📫 How to reach me: vidhyaft23@gmail.com
 
 - ⚡ Fun fact: love traveling
