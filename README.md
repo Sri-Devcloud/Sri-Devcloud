@@ -4,10 +4,10 @@
 
    I am Sri
    
-🌱 I’m currently learning DevOps Methodology & AWS Cloud
+🌱 I’m currently learning DevOps Methodology & AWS Cloud & AZURE
 
 - 💬 Ask me about Devops and AWS
 
-- 📫 How to reach me: vidhyaft23@gmail.com
+- 📫 How to reach me: vidhyasmft@gmail.com
 
 - ⚡ Fun fact: love traveling
