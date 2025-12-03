@@ -83,22 +83,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎓 Certifications & Training
 
 - 🏆 **Microsoft Certified: Azure Developer Associate** (AZ-204)
@@ -143,8 +127,6 @@ I'm always interested in collaborating on enterprise .NET projects, discussing s
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sri-net-cloud/)
 - 📧 [Email](mailto:vidhyasmft@gmail.com)
-- 🌐 [Portfolio](your-portfolio-url)
-- 🐦 [Twitter](your-twitter-url)
 
 ---
 
